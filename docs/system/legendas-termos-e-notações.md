@@ -12,7 +12,7 @@ As legendas e termos servem como uma notação universal dos comandos do jogo, f
 
 
 
-![](/site/tekkenstick.jpg)
+![](images/tekkenstick.jpg)
 
 
 
