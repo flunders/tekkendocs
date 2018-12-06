@@ -2,14 +2,17 @@
 title: Armor King
 summary: AMK
 ---
+![](/images/amkt7.jpg)
+
 # Overview
 
 ## Prós
--
+
+\-
 
 ## Contras
--
 
+\-
 
 # Special Moves
 
@@ -22,7 +25,8 @@ f+1+2
 b+3+4
 
 ## Rage Drive
-CD[1+2]
+
+CD\[1+2]
 
 ## Screw Attacks
 
@@ -41,19 +45,22 @@ f,f+3
 d/f+1+2
 
 ## Grabs
+
 f,hcf+1
 
 GS ISW ETC ETC
 
 ## Tackles
 
--
+\-
 
 ## Golpes com transição para grabs
--
+
+\-
 
 ## Golpes com transição para grabs em CH
--
+
+\-
 
 ## Reversals mid e low
 
@@ -62,6 +69,7 @@ b+1+3 Mid reversal
 b+2+4 Mid reversal
 
 # Punishers
+
 ## Standing Punishers
 
 **10f**
@@ -93,6 +101,7 @@ f+2,1
 u/f+4
 
 ## While standing Punishers
+
 **11f**
 
 WS+4 
@@ -109,7 +118,8 @@ ws+1
 
 u/f,n,4 
 
-# Combos 
+# Combos
+
 ## NH Combo
 
 CD+2, CD+1, d/f+1, 1+2,2, d/b+2,4 S! iSW - 80 dmg (apesar do dano bom por enquanto não recomendaria usar esse, online é mais inconsistente de acertar o iSW do que parece)
@@ -238,7 +248,7 @@ iSW
 
 # Principais Golpes
 
-Os golpes abaixo não estão em nenhuma ordem em particular, fui escrevendo conforme fui lembrando, server pra ter uma noção de que tipo de golpes são melhores com ele, em quais situações usar etc.
+Quais são os golpes mais comuns/melhores, em quais situações usar etc.
 
 # Okizeme / Wake-up game
 
