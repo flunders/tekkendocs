@@ -2,40 +2,36 @@
 title: Armor King
 summary: AMK
 ---
-**Overview**
+\#**Overview**
 
-**Prós
+**\##Prós
 **
 
 \-
 
 \-
 
-**Contras
+**\##Contras
 **
 
 \-
 
 \-
 
-**Power Crush
-**
+**\#Special Moves**
+
+**\##Power Crush**
 
 f+1+2
 
-**Rage Art
-**
+**\##Rage Art**
 
 b+3+4
 
-**Rage Drive
-**
+**\##Rage Drive
+**CD\[1+2]
 
-CD\[1+2
-]
-
-**Screw Attacks
-**
+**\##Screw Attacks**
 
 d/b+2,4
 
@@ -45,65 +41,52 @@ f,f+3
 
 d+3+4,1
 
-**Homing moves
-**
+**\##Homing moves**
 
 f,f+3 
 
 d/f+1+2
 
-**Grabs
-**
-
-f,hcf+1
+**\##Grabs
+**f,hcf+1
 
 GS ISW ETC ETC
 
-**Tackles
-**
+**\##Tackles**
 
 \-
 
 \-
 
-**Golpes com transição para grabs
-**
+**\##Golpes com transição para grabs**
 
 \-
 
 \-
 
-**Golpes com transição para grabs em CH
-**
+**\##Golpes com transição para grabs em CH
+**-
 
 \-
 
-\-
-
-**Reversals mid e low 
-**
+**\##Reversals mid e low **
 
 b+1+3 Mid reversal
 
 b+2+4 Mid reversal
 
-**Punishers
+**\#Punishers
+##Standing Punishers
 **
 
-**Standing Punishers
-**
-
-**10f
-**
+**10f**
 
 1,2
 
 2,1
 
 **12f
-**
-
-b+1,2
+**b+1,2
 
 d/f+4
 
@@ -113,49 +96,41 @@ f+1+4
 
 - - -
 
-**14f
-**
+**14f**
 
 d/b+2,4
 
 f,n,d,d/f+2
 
-**15f 
-**
+**15f **
 
 f+2,1
 
 u/f+4
 
-**While standing Punishers
+**\##While standing Punishers
 **
 
 **11f
-**
-
-WS+4 
+**WS+4 
 
 **15f
-**
-
-u/f+4
+**u/f+4
 
 **16f**
 
 ws+1
 
 **23f
+**u/f,n,4 
+
+****
+
+**\#Combos 
+##NH Combos**
+
 **
-
-u/f,n,4 
-
-**Combos 
-**
-
-**NH Combos
-**
-
-CD+2, CD+1, d/f+1, 1+2,2, d/b+2,4 S! iSW - 80 dmg (apesar do dano bom por enquanto não recomendaria usar esse, online é mais inconsistente de acertar o iSW do que parece)
+**CD+2, CD+1, d/f+1, 1+2,2, d/b+2,4 S! iSW - 80 dmg (apesar do dano bom por enquanto não recomendaria usar esse, online é mais inconsistente de acertar o iSW do que parece)
 
 CD+2, u/f+3, d/f+1, d/f+3, d/b+2,4 S! iSW - 72 dmg
 
@@ -209,8 +184,9 @@ CD+1, f+4 - 39 dmg
 
 CD+1, d/b+1+3 - 63 dmg
 
-**CH Combos 
-**
+****
+
+**\##CH Combos **
 
 CH 4, d+3+4,1 S! d/f+1, 1+2,2, f+1+4 - 59 dmg (mais consistente)
 
@@ -250,15 +226,15 @@ CH f+4, f+4 - 41 dmg
 
 CH f+4, d/b+1+3 - 65 dmg
 
-**LP Combos
-**
+****
+
+**\##LP Combos**
 
 LP d/f+1, d/f+1, 1+2,2, d/b+2,4 S! iSW - 52 dmg
 
 LP u/f+3, d/f+1, 1+2,2, d/b+2,4 S! iSW - 56 dmg
 
-**Enders
-**
+**\##Enders**
 
 f+2,1_d/b+2,4_d+2,4_d/f+3 
 
@@ -283,13 +259,11 @@ GS
 
 iSW
 
-**Principais Golpes
+**\#Principais Golpes
 **
 
-que tipo de golpes são melhores com ele, em quais situações usar etc.
+Os golpes abaixo não estão em nenhuma ordem em particular, fui escrevendo conforme fui lembrando, server pra ter uma noção de que tipo de golpes são melhores com ele, em quais situações usar etc.
 
-
-
-**Okizeme / Wake-up game**
+**\#Okizeme / Wake-up game**
 
 Explicar como o Okizeme básico do char funciona, alguns principais etc
