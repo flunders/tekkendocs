@@ -238,7 +238,7 @@ iSW
 
 # Principais Golpes
 
-Os golpes abaixo não estão em nenhuma ordem em particular, fui escrevendo conforme fui lembrando, server pra ter uma noção de que tipo de golpes são melhores com ele, em quais situações usar etc.
+Quais são os golpes mais comuns/melhores, em quais situações usar etc.
 
 # Okizeme / Wake-up game
 
