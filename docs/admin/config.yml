@@ -6,8 +6,8 @@ backend:
   repo: flunders/tekkendocs
   branch: master
 
-public_folder: "site"
-media_folder: "docs/images"
+public_folder: "/images/"
+media_folder: "/docs/images"
 publish_mode: editorial_workflow
 
 
