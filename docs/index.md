@@ -1,5 +1,5 @@
 ---
-title: Change docs/index.md
+title: Inders
 summary: index
 ---
 # Tekken Guide
