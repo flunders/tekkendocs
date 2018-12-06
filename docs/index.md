@@ -4,7 +4,7 @@ summary: index
 ---
 # Tekken Guide
 
-![Setting a url for the site](/site/tekken-7-logo.png)
+![https://tekken.netlify.com/](/site/tekken-7-logo.png)
 
 # 
 
