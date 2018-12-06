@@ -1,5 +1,5 @@
 ---
-title: Inders
+title: home
 summary: index
 ---
 # Tekken Guide
