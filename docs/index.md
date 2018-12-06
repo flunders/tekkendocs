@@ -1,5 +1,5 @@
 ---
-title: home
+title: index
 summary: index
 ---
 # Tekken Guide
