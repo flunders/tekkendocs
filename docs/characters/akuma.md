@@ -959,7 +959,7 @@ test
 </tr>
 </tbody></table>
 ## Basic Moves
-<table border="1">
+<table>
 <tbody><tr>
 <td><b>Command</b></td>
 <td><b>Hit level</b></td>
