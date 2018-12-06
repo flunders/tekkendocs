@@ -4,13 +4,10 @@ summary: Akuma
 ---
 test
 
-
 # Frame data
-
 ## Special Moves
-
-<table border="1">
-<tbody><tr bgcolor="LightGray">
+<table>
+<tbody><tr>
 <td><b>Command</b></td>
 <td><b>Hit level</b></td>
 <td><b>Damage</b></td>
@@ -30,7 +27,7 @@ test
 <td>Throw(KND)</td>
 <td>Rage art</td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>1 or f+1</td>
 <td>h</td>
 <td>7</td>
@@ -50,7 +47,7 @@ test
 <td>+4</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>1, 2</td>
 <td>h, m</td>
 <td>7,20</td>
@@ -70,7 +67,7 @@ test
 <td>0~+1</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>3 or b+3</td>
 <td>h</td>
 <td>14</td>
@@ -90,7 +87,7 @@ test
 <td>+2~+3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>4, 3</td>
 <td>h, h</td>
 <td>12,17</td>
@@ -110,7 +107,7 @@ test
 <td>-8</td>
 <td>Power crush</td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>1+2, f, f (Cancel)</td>
 <td>h</td>
 <td>14</td>
@@ -130,7 +127,7 @@ test
 <td>-3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>1+2, *</td>
 <td>h</td>
 <td>20</td>
@@ -150,7 +147,7 @@ test
 <td>CS(21)</td>
 <td>Power crush</td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>1+2*, b, b (Cancel)</td>
 <td>h</td>
 <td>20</td>
@@ -170,7 +167,7 @@ test
 <td>CS</td>
 <td>Power crush</td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>1+2 (Hold long as possible)*, f, f (Cancel)</td>
 <td>h</td>
 <td>25</td>
@@ -190,7 +187,7 @@ test
 <td>CS(11)</td>
 <td>Power crush</td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f+3</td>
 <td>m</td>
 <td>16</td>
@@ -210,7 +207,7 @@ test
 <td>KND</td>
 <td>Tail spin, Homing</td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f+1+2</td>
 <td>mm</td>
 <td>5,15</td>
@@ -230,7 +227,7 @@ test
 <td>–</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f+3+4</td>
 <td>m (TJ)(TPORT)</td>
 <td>20</td>
@@ -250,7 +247,7 @@ test
 <td>+7~+8</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/f+1, 1</td>
 <td>m, h</td>
 <td>10,7</td>
@@ -270,7 +267,7 @@ test
 <td>+5s</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/f+1, 2 (Third hit miss)</td>
 <td>m, m</td>
 <td>10,5</td>
@@ -290,7 +287,7 @@ test
 <td>+3~+4</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/f+2, 1</td>
 <td>m, m</td>
 <td>10,10</td>
@@ -310,7 +307,7 @@ test
 <td>0</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/f+2, 4, 3</td>
 <td>m, m, m</td>
 <td>10,13,23</td>
@@ -330,7 +327,7 @@ test
 <td>+1</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/f+4</td>
 <td>m</td>
 <td>24</td>
@@ -350,7 +347,7 @@ test
 <td>+6</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/b or d+1, 2 or FC+1, 2</td>
 <td>Sm (TC), Sm (TC)</td>
 <td>5,8</td>
@@ -370,7 +367,7 @@ test
 <td>+7</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/b or d+3 or FC+3 (Close)</td>
 <td>l (TC)</td>
 <td>10</td>
@@ -390,7 +387,7 @@ test
 <td>-2</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/b or d+4 or FC+4</td>
 <td>l (TC)</td>
 <td>20</td>
@@ -410,7 +407,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>b+2</td>
 <td>m</td>
 <td>21</td>
@@ -430,7 +427,7 @@ test
 <td>+1~+2</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, F+2</td>
 <td>m</td>
 <td>14</td>
@@ -450,7 +447,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, F+4</td>
 <td>m</td>
 <td>23</td>
@@ -470,7 +467,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, f, f+3</td>
 <td>m (TJ)</td>
 <td>30</td>
@@ -490,7 +487,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>WS+1</td>
 <td>h</td>
 <td>12</td>
@@ -510,7 +507,7 @@ test
 <td>Launch (JG?)</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>WS+3</td>
 <td>m</td>
 <td>17</td>
@@ -530,7 +527,7 @@ test
 <td>+2~+3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>WS+4, 4</td>
 <td>m, m</td>
 <td>10,20</td>
@@ -550,7 +547,7 @@ test
 <td>-15~+12</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Vertical jump 2</td>
 <td>m (TJ)</td>
 <td>15</td>
@@ -570,7 +567,7 @@ test
 <td>-15~+12</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Vertical jump 4</td>
 <td>m (TJ)</td>
 <td>15</td>
@@ -590,7 +587,7 @@ test
 <td>-13~+14</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Forward jump 2 Backward jump 2</td>
 <td>m (TJ)</td>
 <td>15</td>
@@ -610,7 +607,7 @@ test
 <td>-16~+12</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Forward jump 4 Backward jump 4</td>
 <td>m (TJ)</td>
 <td>15</td>
@@ -630,7 +627,7 @@ test
 <td>+9s~+16s</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>qcf+1 or qcf+2</td>
 <td>Sm</td>
 <td>14</td>
@@ -650,7 +647,7 @@ test
 <td>+15~</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>hcb+1</td>
 <td>Sm</td>
 <td>15</td>
@@ -670,7 +667,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, d, d/f+1</td>
 <td>Sm</td>
 <td>15</td>
@@ -690,7 +687,7 @@ test
 <td>Launch (JG?)</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, d, d/f+2</td>
 <td>Sm x 3</td>
 <td>6,6,20</td>
@@ -710,7 +707,7 @@ test
 <td></td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, d, d/f+2, 1+2f, f (Only two first hits)</td>
 <td>Sm x 2</td>
 <td>6,6</td>
@@ -730,7 +727,7 @@ test
 <td></td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>DFLIP n</td>
 <td>l</td>
 <td>23</td>
@@ -750,7 +747,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>DFLIP 2</td>
 <td>m</td>
 <td>20</td>
@@ -770,7 +767,7 @@ test
 <td>KND</td>
 <td>Tail spin, Homing</td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>DFLIP 4</td>
 <td>Sm</td>
 <td>15</td>
@@ -790,7 +787,7 @@ test
 <td></td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>qcb+3</td>
 <td>h (TJ)</td>
 <td>10</td>
@@ -810,7 +807,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Jump qcf+1 or 2</td>
 <td>Sm</td>
 <td>10</td>
@@ -830,7 +827,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, d, d/f+3+4 or b, d, d/b+3+4</td>
 <td>(Special)</td>
 <td></td>
@@ -850,7 +847,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>hcb+1+2</td>
 <td>Sm x 3</td>
 <td>12,12,12</td>
@@ -870,7 +867,7 @@ test
 <td>Launch (JG?)</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, d, d/f+1+2 (On counter)</td>
 <td>Sm, (throw)</td>
 <td>7,8,9,9,9</td>
@@ -890,7 +887,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Jump qcf+1+2</td>
 <td>Sm, Sm</td>
 <td>10,10</td>
@@ -910,7 +907,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>TPORT(f+3+4) qcf+1+2</td>
 <td>m (TJ), Sm x 2(TPORT)</td>
 <td>20,10,10</td>
@@ -930,7 +927,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>TPORT(f+3+4) qcb+3+4 (Third hit miss)</td>
 <td>m (TJ), Sm x 2(TPORT)</td>
 <td>20,6,6</td>
@@ -950,7 +947,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>qcf, qcf+1+2</td>
 <td>Sm x 5</td>
 <td>58(20*5)</td>
@@ -961,11 +958,9 @@ test
 <td></td>
 </tr>
 </tbody></table>
-
 ## Basic Moves
-
 <table border="1">
-<tbody><tr bgcolor="LightGray">
+<tbody><tr>
 <td><b>Command</b></td>
 <td><b>Hit level</b></td>
 <td><b>Damage</b></td>
@@ -985,7 +980,7 @@ test
 <td>+8</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>2</td>
 <td>Sm</td>
 <td>15</td>
@@ -1005,7 +1000,7 @@ test
 <td>+3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>4</td>
 <td>h</td>
 <td>12</td>
@@ -1025,7 +1020,7 @@ test
 <td>KND?</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>b+2</td>
 <td>m</td>
 <td>21</td>
@@ -1045,7 +1040,7 @@ test
 <td>+3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>b+4</td>
 <td>l</td>
 <td>15</td>
@@ -1065,7 +1060,7 @@ test
 <td>+8</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f+2</td>
 <td>Sm</td>
 <td>17?</td>
@@ -1085,7 +1080,7 @@ test
 <td>+1</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f+4</td>
 <td>h</td>
 <td>20</td>
@@ -1105,7 +1100,7 @@ test
 <td>+8</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, F+2</td>
 <td>m</td>
 <td>14</td>
@@ -1125,7 +1120,7 @@ test
 <td>+2</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>f, F+4</td>
 <td>m</td>
 <td>23</td>
@@ -1145,7 +1140,7 @@ test
 <td>+6</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d+2</td>
 <td>Sm (TC)</td>
 <td>6</td>
@@ -1165,7 +1160,7 @@ test
 <td>-2</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/b or d+3 (Far)</td>
 <td>l (TC)?</td>
 <td>6</td>
@@ -1185,7 +1180,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/b+1</td>
 <td>Sm (TC)</td>
 <td>5</td>
@@ -1205,7 +1200,7 @@ test
 <td>+7</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/b or d+3 (Close) </td>
 <td>l (TC)?</td>
 <td>10</td>
@@ -1225,7 +1220,7 @@ test
 <td>-2?</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/b+4</td>
 <td>l (TC)</td>
 <td>20</td>
@@ -1245,7 +1240,7 @@ test
 <td>+6</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>FC+2</td>
 <td>Sm (TC)</td>
 <td>6</td>
@@ -1265,7 +1260,7 @@ test
 <td>-2</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>FC+3 (Far)</td>
 <td>l (TC)?</td>
 <td>6</td>
@@ -1285,7 +1280,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>WS+1</td>
 <td>h</td>
 <td>12</td>
@@ -1305,7 +1300,7 @@ test
 <td>Launch (JG?)</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>WS+3</td>
 <td>m</td>
 <td>17</td>
@@ -1325,7 +1320,7 @@ test
 <td>+2</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/f+1</td>
 <td>m</td>
 <td>10</td>
@@ -1345,7 +1340,7 @@ test
 <td>+3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>d/f+3</td>
 <td>m</td>
 <td>14</td>
@@ -1365,7 +1360,7 @@ test
 <td>KND</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Vertical jump 1</td>
 <td>m (TJ)</td>
 <td>10</td>
@@ -1385,7 +1380,7 @@ test
 <td></td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Vertical jump 3</td>
 <td>m (TJ)</td>
 <td>10</td>
@@ -1405,7 +1400,7 @@ test
 <td></td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Forward jump 1</td>
 <td>m (TJ)</td>
 <td></td>
@@ -1425,7 +1420,7 @@ test
 <td></td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Forward jump 2</td>
 <td>m (TJ)</td>
 <td>15</td>
@@ -1445,7 +1440,7 @@ test
 <td>+17</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Forward jump 3</td>
 <td>m (TJ)</td>
 <td></td>
@@ -1465,7 +1460,7 @@ test
 <td>+12</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Forward jump 4</td>
 <td>m (TJ)</td>
 <td>15</td>
@@ -1485,7 +1480,7 @@ test
 <td>+17</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>Forward jump Top of jump d+3</td>
 <td>m (TJ)</td>
 <td>14</td>
@@ -1505,7 +1500,7 @@ test
 <td>+8</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>SS+2</td>
 <td>Sm</td>
 <td>15</td>
@@ -1525,7 +1520,7 @@ test
 <td>+3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>SS+4</td>
 <td>h</td>
 <td>12</td>
@@ -1545,7 +1540,7 @@ test
 <td>+3</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>BT 3 or 4</td>
 <td>h</td>
 <td>33</td>
@@ -1565,7 +1560,7 @@ test
 <td>+9</td>
 <td></td>
 </tr>
-<tr bgcolor="LightGray">
+<tr>
 <td>BT d+3 or 4</td>
 <td>l</td>
 <td>12</td>
