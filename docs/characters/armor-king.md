@@ -2,33 +2,35 @@
 title: Armor King
 summary: AMK
 ---
+# Armor King
+
 ![](/images/amkt7.jpg)
 
-# Overview
+## Overview
 
-## Prós
-
-\-
-
-## Contras
+### Prós
 
 \-
 
-# Special Moves
+### Contras
 
-## Power Crush
+\-
+
+## Special Moves
+
+### Power Crush
 
 f+1+2
 
-## Rage Art
+### Rage Art
 
 b+3+4
 
-## Rage Drive
+### Rage Drive
 
 CD\[1+2]
 
-## Screw Attacks
+### Screw Attacks
 
 d/b+2,4
 
@@ -38,39 +40,39 @@ f,f+3
 
 d+3+4,1
 
-## Homing moves
+### Homing moves
 
 f,f+3 
 
 d/f+1+2
 
-## Grabs
+### Grabs
 
 f,hcf+1
 
 GS ISW ETC ETC
 
-## Tackles
+### Tackles
 
 \-
 
-## Golpes com transição para grabs
+### Golpes com transição para grabs
 
 \-
 
-## Golpes com transição para grabs em CH
+### Golpes com transição para grabs em CH
 
 \-
 
-## Reversals mid e low
+### Reversals mid e low
 
 b+1+3 Mid reversal
 
 b+2+4 Mid reversal
 
-# Punishers
+## Punishers
 
-## Standing Punishers
+### Standing Punishers
 
 **10f**
 
@@ -100,7 +102,7 @@ f+2,1
 
 u/f+4
 
-## While standing Punishers
+### While standing Punishers
 
 **11f**
 
@@ -118,9 +120,9 @@ ws+1
 
 u/f,n,4 
 
-# Combos
+## Combos
 
-## NH Combo
+### NH Combo
 
 CD+2, CD+1, d/f+1, 1+2,2, d/b+2,4 S! iSW - 80 dmg (apesar do dano bom por enquanto não recomendaria usar esse, online é mais inconsistente de acertar o iSW do que parece)
 
@@ -176,7 +178,7 @@ CD+1, f+4 - 39 dmg
 
 CD+1, d/b+1+3 - 63 dmg
 
-## CH Combos
+### CH Combos
 
 CH 4, d+3+4,1 S! d/f+1, 1+2,2, f+1+4 - 59 dmg (mais consistente)
 
@@ -216,19 +218,19 @@ CH f+4, f+4 - 41 dmg
 
 CH f+4, d/b+1+3 - 65 dmg
 
-## LP Combos
+### LP Combos
 
 LP d/f+1, d/f+1, 1+2,2, d/b+2,4 S! iSW - 52 dmg
 
 LP u/f+3, d/f+1, 1+2,2, d/b+2,4 S! iSW - 56 dmg
 
-## Enders
+### Enders
 
 f+2,1_d/b+2,4_d+2,4_d/f+3 
 
 Variaçõe que podem ser usadas Depois do S! nos combos etc
 
-## Wall combos
+### Wall combos
 
 1, d/f+1, f+1+4
 
@@ -246,10 +248,10 @@ GS
 
 iSW
 
-# Principais Golpes
+## Principais Golpes
 
 Quais são os golpes mais comuns/melhores, em quais situações usar etc.
 
-# Okizeme / Wake-up game
+## Okizeme / Wake-up game
 
 Explicar como o Okizeme básico do char funciona, alguns principais etc
