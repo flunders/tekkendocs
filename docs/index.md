@@ -6,6 +6,6 @@ summary: index
 
 ![](/images/tekken-7-logo.png)
 
-Tekken Guide is a resource for new to learn the game.
+Tekken Guide is a resource for new players to learn the game.
 
 ##
